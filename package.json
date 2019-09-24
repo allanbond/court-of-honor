@@ -6,7 +6,7 @@
   "scripts": {
     "build": "npm run site && npm run css",
     "css": "npx gulp --gulpfile=styles/gulpfile.js build",
-    "site": "npx eleventy --config=.eleventy.js --input=site --output=_site",
+    "site": "npx eleventy --config=.eleventy.js --input=site --output=public",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
