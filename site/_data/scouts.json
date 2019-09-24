@@ -1,0 +1,153 @@
+[
+  {
+    "lastName": "Bingham",
+    "firstName": "Max",
+    "ranks": ["first-class"],
+    "badges": [
+      "archery",
+      "citizenship-in-the-nation",
+      "cooking",
+      "first-aid",
+      "lifesaving"
+    ]
+  },
+  {
+    "lastName": "Bond",
+    "firstName": "David",
+    "ranks": ["scout"],
+    "badges": ["fingerprinting", "geocaching", "leatherwork", "woodcarving"]
+  },
+  {
+    "lastName": "Dorman",
+    "firstName": "Keaton",
+    "ranks": ["second-class"],
+    "badges": [
+      "backpacking",
+      "fingerprinting",
+      "hiking",
+      "photography",
+      "pottery",
+      "search-and-rescue"
+    ]
+  },
+  {
+    "lastName": "Fraser",
+    "firstName": "Andrew",
+    "ranks": ["star", "life"],
+    "badges": [
+      "american-cultures",
+      "american-heritage",
+      "american-labor",
+      "animal-science",
+      "archery",
+      "architecture",
+      "astronomy",
+      "backpacking",
+      "camping",
+      "canoeing",
+      "chemistry",
+      "chess",
+      "citizenship-in-the-community",
+      "citizenship-in-the-nation",
+      "citizenship-in-the-world",
+      "climbing",
+      "composite-materials",
+      "dentistry",
+      "disabilities-awareness",
+      "emergency-preparedness",
+      "engineering",
+      "environmental-science",
+      "family-life",
+      "farm-mechanics",
+      "fingerprinting",
+      "fish-and-wildlife-management",
+      "fly-fishing",
+      "forestry",
+      "game-design",
+      "genealogy",
+      "graphic-arts",
+      "hiking",
+      "insect-study",
+      "journalism",
+      "landscape-architecture",
+      "law",
+      "leatherwork",
+      "mammal-study",
+      "model-design-and-building",
+      "motorboating",
+      "music",
+      "nature",
+      "pottery",
+      "public-health",
+      "public-speaking",
+      "reptile-and-amphibian-study",
+      "rifle-shooting",
+      "salesmanship",
+      "scholarship",
+      "scouting-heritage",
+      "search-and-rescue",
+      "shotgun-shooting",
+      "signs-signals-and-codes",
+      "small-boat-sailing",
+      "space-exploration",
+      "textile",
+      "traffic-safety",
+      "veterinary-medicine",
+      "whitewater",
+      "wilderness-survival",
+      "woodwork",
+      "woodcarving"
+    ]
+  },
+  {
+    "lastName": "Bingham",
+    "firstName": "Owen",
+    "ranks": ["life"],
+    "badges": [
+      "camping",
+      "citizenship-in-the-nation",
+      "communication",
+      "cooking",
+      "family-life",
+      "personal-management"
+    ]
+  },
+  {
+    "lastName": "Colwell",
+    "firstName": "Petey",
+    "ranks": [],
+    "badges": [
+      "animal-science",
+      "art",
+      "citizenship-in-the-community",
+      "cooking",
+      "dog-care",
+      "disabilities-awareness",
+      "fire-safety",
+      "medicine",
+      "personal-management",
+      "public-health",
+      "soil-and-water-conservation",
+      "space-exploration",
+      "wilderness-survival"
+    ]
+  },
+  {
+    "lastName": "McHugh",
+    "firstName": "Leland",
+    "ranks": [],
+    "badges": ["fishing", "kayaking", "space-exploration"]
+  },
+  {
+    "lastName": "Kemp",
+    "firstName": "Owen",
+    "ranks": [],
+    "badges": [
+      "citizenship-in-the-nation",
+      "communication",
+      "environmental-science",
+      "first-aid",
+      "wilderness-survival"
+    ]
+  }
+]

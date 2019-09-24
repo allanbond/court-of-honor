@@ -1,0 +1,58 @@
+---
+layout: default.njk
+meta_title: Home
+meta_description: Homepage description
+body_class: home
+title: Welcome to Skeleventy!
+pagination:
+  data: scouts
+  size: 1
+  alias: scout
+  addAllPagesToCollections: true
+permalink: scouts/{{ scout.firstName }}{{ scout.lastName }}/index.html
+---
+
+<h1 class="text-6xl text-blue-800 mb-8 font-bold">
+  {{ scout.firstName }} {{ scout.lastName }}
+</h1>
+
+<div class="flex flex-row">
+  {% if scout.badges.length > 0%}
+  <div class="flex-1 flex flex-col">
+    <h2
+      class="text-5xl text-gray-700 uppercase border-b-2 border-dotted border-gray-500"
+    >
+      Merit Badges
+    </h2>
+    <div class="flex flex-row flex-wrap p-8 w-full">
+      {% for badge in scout.badges %}
+      <div class="flex flex-col items-center px-10 py-4" style="width: 155px">
+        <img
+          src="https://filestore.scouting.org/filestore/boyscouts/jpg/{{
+            badges[badge].thumbnail
+          }}_sm.jpg"
+          style="height: 75px; width: 75px"
+        />
+        <div class="pt-3 text-center text-xl font-bold">
+          {{ badges[badge].label }}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %} {% if scout.ranks.length > 0%}
+  <div class="flex flex-col items-center">
+    <h2
+      class="text-5xl text-gray-700 uppercase border-b-2 border-dotted border-gray-500"
+    >
+      Ranks
+    </h2>
+    {% for rank in scout.ranks %}
+    <div class="flex flex-col items-center p-8">
+      <img src="{{ ranks[rank].thumbnail }}" style="width: 250px" />
+      <div class="text-4xl font-bold pt-3">{{ ranks[rank].label }}</div>
+    </div>
+    {% endfor %}
+  </div>
+  {% endif %}
+</div>

@@ -1,0 +1,22 @@
+{
+  "life": {
+    "label": "Life",
+    "thumbnail": "https://retailobjects.scoutshop.org/media/catalog/product/cache/197dfcf1b0ab85fcb4350e692a5b4844/4/2/420.jpg"
+  },
+  "first-class": {
+    "label": "First Class",
+    "thumbnail": "https://retailobjects.scoutshop.org/media/catalog/product/cache/49342816bf9b4b0b1b4a544024c10e61/4/1/418.jpg"
+  },
+  "second-class": {
+    "label": "Second Class",
+    "thumbnail": "https://retailobjects.scoutshop.org/media/catalog/product/cache/49342816bf9b4b0b1b4a544024c10e61/4/1/417.jpg"
+  },
+  "scout": {
+    "label": "Scout",
+    "thumbnail": "https://retailobjects.scoutshop.org/media/catalog/product/cache/49342816bf9b4b0b1b4a544024c10e61/6/2/620078.jpg"
+  },
+  "star": {
+    "label": "Star",
+    "thumbnail": "https://retailobjects.scoutshop.org/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/4/1/419.jpg"
+  }
+}

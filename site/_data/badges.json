@@ -1,0 +1,306 @@
+{
+  "american-cultures": {
+    "label": "American Cultures",
+    "thumbnail": "american_cultures"
+  },
+  "american-heritage": {
+    "label": "American Heritage",
+    "thumbnail": "american_heritage"
+  },
+  "american-labor": {
+    "label": "American Labor",
+    "thumbnail": "american_labor"
+  },
+  "animal-science": {
+    "label": "Animal Science",
+    "thumbnail": "animal_science"
+  },
+  "archery": {
+    "label": "Archery",
+    "thumbnail": "archery"
+  },
+  "architecture": {
+    "label": "Architecture",
+    "thumbnail": "architecture"
+  },
+  "art": {
+    "label": "Art",
+    "thumbnail": "art"
+  },
+  "astronomy": {
+    "label": "Astronomy",
+    "thumbnail": "astronomy"
+  },
+  "backpacking": {
+    "label": "Backpacking",
+    "thumbnail": "backpacking"
+  },
+  "camping": {
+    "label": "Camping",
+    "thumbnail": "camping"
+  },
+  "canoeing": {
+    "label": "Canoeing",
+    "thumbnail": "canoeing"
+  },
+  "chemistry": {
+    "label": "Chemistry",
+    "thumbnail": "chemistry"
+  },
+  "chess": {
+    "label": "Chess",
+    "thumbnail": "chess"
+  },
+  "citizenship-in-the-community": {
+    "label": "Citizenship in the Community",
+    "thumbnail": "citizenship_in_the_community"
+  },
+  "citizenship-in-the-nation": {
+    "label": "Citizenship in the Nation",
+    "thumbnail": "citizenship_in_the_nation"
+  },
+  "citizenship-in-the-world": {
+    "label": "Citizenship in the World",
+    "thumbnail": "citizenship_in_the_world"
+  },
+  "climbing": {
+    "label": "Climbing",
+    "thumbnail": "climbing"
+  },
+  "communication": {
+    "label": "Communication",
+    "thumbnail": "communication"
+  },
+  "composite-materials": {
+    "label": "Composite Materials",
+    "thumbnail": "composite_materials"
+  },
+  "cooking": {
+    "label": "Cooking",
+    "thumbnail": "cooking"
+  },
+  "dentistry": {
+    "label": "Dentistry",
+    "thumbnail": "dentistry"
+  },
+  "disabilities-awareness": {
+    "label": "Disability Awareness",
+    "thumbnail": "disabilities_awareness"
+  },
+  "dog-care": {
+    "label": "Dog Care",
+    "thumbnail": "dog_care"
+  },
+  "emergency-preparedness": {
+    "label": "Emergency Preparedness",
+    "thumbnail": "emergency_preparedness"
+  },
+  "engineering": {
+    "label": "Engineering",
+    "thumbnail": "engineering"
+  },
+  "environmental-science": {
+    "label": "Environmental Science",
+    "thumbnail": "environmental_science"
+  },
+  "family-life": {
+    "label": "Family Life",
+    "thumbnail": "family_life"
+  },
+  "farm-mechanics": {
+    "label": "Farm Mechanics",
+    "thumbnail": "farm_mechanics"
+  },
+  "fingerprinting": {
+    "label": "Fingerprinting",
+    "thumbnail": "fingerprinting"
+  },
+  "fire-safety": {
+    "label": "Fire Safety",
+    "thumbnail": "fire_safety"
+  },
+  "first-aid": {
+    "label": "First Aid",
+    "thumbnail": "first_aid"
+  },
+  "fish-and-wildlife-management": {
+    "label": "Fish & Wildlife Management",
+    "thumbnail": "fish_and_wildlife_management"
+  },
+  "fishing": {
+    "label": "Fishing",
+    "thumbnail": "fishing"
+  },
+  "fly-fishing": {
+    "label": "Fly-Fishing",
+    "thumbnail": "fly-fishing"
+  },
+  "forestry": {
+    "label": "Forestry",
+    "thumbnail": "forestry"
+  },
+  "game-design": {
+    "label": "Game Design",
+    "thumbnail": "game_design"
+  },
+  "genealogy": {
+    "label": "Genealogy",
+    "thumbnail": "genealogy"
+  },
+  "geocaching": {
+    "label": "Geocaching",
+    "thumbnail": "geocaching"
+  },
+  "graphic-arts": {
+    "label": "Graphic Arts",
+    "thumbnail": "graphic_arts"
+  },
+  "hiking": {
+    "label": "Hiking",
+    "thumbnail": "hiking"
+  },
+  "insect-study": {
+    "label": "Insect Study",
+    "thumbnail": "insect_study"
+  },
+  "journalism": {
+    "label": "Journalism",
+    "thumbnail": "journalism"
+  },
+  "kayaking": {
+    "label": "Kayaking",
+    "thumbnail": "kayaking"
+  },
+  "landscape-architecture": {
+    "label": "Landscape Architecture",
+    "thumbnail": "landscape_architecture"
+  },
+  "law": {
+    "label": "Law",
+    "thumbnail": "law"
+  },
+  "leatherwork": {
+    "label": "Leatherwork",
+    "thumbnail": "leatherwork"
+  },
+  "lifesaving": {
+    "label": "Lifesaving",
+    "thumbnail": "lifesaving"
+  },
+  "mammal-study": {
+    "label": "Mammal Study",
+    "thumbnail": "mammal_study"
+  },
+  "medicine": {
+    "label": "Medicine",
+    "thumbnail": "medicine"
+  },
+  "model-design-and-building": {
+    "label": "Model Design & Building",
+    "thumbnail": "model_design_and_building"
+  },
+  "motorboating": {
+    "label": "Motorboating",
+    "thumbnail": "motorboating"
+  },
+  "music": {
+    "label": "Music",
+    "thumbnail": "music"
+  },
+  "nature": {
+    "label": "Nature",
+    "thumbnail": "nature"
+  },
+  "personal-management": {
+    "label": "Personal Management",
+    "thumbnail": "personal_management"
+  },
+  "photography": {
+    "label": "Photography",
+    "thumbnail": "photography"
+  },
+  "pottery": {
+    "label": "Pottery",
+    "thumbnail": "pottery"
+  },
+  "public-health": {
+    "label": "Public Health",
+    "thumbnail": "public_health"
+  },
+  "public-speaking": {
+    "label": "Public Speaking",
+    "thumbnail": "public_speaking"
+  },
+  "reptile-and-amphibian-study": {
+    "label": "Reptile & Amphibian Study",
+    "thumbnail": "reptile_and_amphibian_study"
+  },
+  "rifle-shooting": {
+    "label": "Rifle Shooting",
+    "thumbnail": "rifle_shooting"
+  },
+  "salesmanship": {
+    "label": "Salesmanship",
+    "thumbnail": "salesmanship"
+  },
+  "scholarship": {
+    "label": "Scholarship",
+    "thumbnail": "scholarship"
+  },
+  "scouting-heritage": {
+    "label": "Scouting Heritage",
+    "thumbnail": "scouting_heritage"
+  },
+  "search-and-rescue": {
+    "label": "Search & Rescue",
+    "thumbnail": "search_and_rescue"
+  },
+  "shotgun-shooting": {
+    "label": "Shotgun Shooting",
+    "thumbnail": "shotgun_shooting"
+  },
+  "signs-signals-and-codes": {
+    "label": "Signs, Signals, & Codes",
+    "thumbnail": "sign_sig_code"
+  },
+  "small-boat-sailing": {
+    "label": "Small-Boat Sailing",
+    "thumbnail": "small-boat_sailing"
+  },
+  "soil-and-water-conservation": {
+    "label": "Soil & Water Conservation",
+    "thumbnail": "soil_and_water_conservation"
+  },
+  "space-exploration": {
+    "label": "Space Exploration",
+    "thumbnail": "space_exploration"
+  },
+  "textile": {
+    "label": "Textile",
+    "thumbnail": "textile"
+  },
+  "traffic-safety": {
+    "label": "Traffic Safety",
+    "thumbnail": "traffic_safety"
+  },
+  "veterinary-medicine": {
+    "label": "Veterinary Medicine",
+    "thumbnail": "veterinary_medicine"
+  },
+  "whitewater": {
+    "label": "Whitewater",
+    "thumbnail": "whitewater"
+  },
+  "wilderness-survival": {
+    "label": "Wilderness Survival",
+    "thumbnail": "wilderness_survival"
+  },
+  "woodwork": {
+    "label": "Woodwork",
+    "thumbnail": "woodwork"
+  },
+  "woodcarving": {
+    "label": "Wood Carving",
+    "thumbnail": "wood_carving"
+  }
+}

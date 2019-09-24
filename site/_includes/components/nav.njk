@@ -1,0 +1,10 @@
+<div class="flex flex-col items-center">
+  <img src="/assets/bsa_logo.png" class="p-4" style="width: 100px">
+  <ul class="list-none p-8">
+  {% for scout in scouts %}
+    <li class="p-2 text-center">
+      <a href="/scouts/{{ scout.firstName }}{{ scout.lastName }}">{{ scout.firstName }} {{ scout.lastName }}</a>
+    </li>
+  {% endfor %}
+  </ul>
+</div>
