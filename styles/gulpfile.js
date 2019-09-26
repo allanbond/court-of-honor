@@ -15,7 +15,7 @@ function css(cb) {
         ])
       )
       // ...
-      .pipe(dest("../public/"))
+      .pipe(dest("../docs/"))
   );
 }
 
